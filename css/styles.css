@@ -1,0 +1,34 @@
+/****** Tag Selector ******/
+/****** Class Selector ******/
+
+/* Challenge: use only absolute positioning dictated by Angela Yu  */
+.red {
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    position: absolute;
+    right: 735px;
+    bottom: 451px;
+
+    
+}
+
+.blue {
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    position: absolute;
+    right: 836px;
+    bottom: 552px;
+   
+}
+
+ .yellow {
+    height: 100px;
+    width: 100px;
+    background-color: yellow; 
+    
+
+}
+
+/****** ID Selector ******/
