@@ -1,7 +1,13 @@
 /****** Tag Selector ******/
+body {
+    margin: 0;
+}
+
+
 /****** Class Selector ******/
 
 /* Challenge: use only absolute positioning dictated by Angela Yu  */
+
 .red {
     height: 100px;
     width: 100px;
